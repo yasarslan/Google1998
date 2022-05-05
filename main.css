@@ -1,0 +1,44 @@
+ .searchengine {
+    background-color: #EEEEEE;
+    width: 1750px;
+} 
+
+.box{
+    float: left;
+}
+
+.sol-altnav {
+    background-color: #7EE5DA;
+    width: 680px;
+    text-align: center;
+    margin-left: 77px;
+    margin-top: 2px;
+    padding-top: 10px;
+}
+
+.orta-altnav{
+    background-color:#70CCC2 ;
+    width: 285px;
+    text-align: center;
+    margin-left: 2px;
+    margin-top: 2px;
+    padding-top: 10px;
+    padding-bottom: 8px;
+    font-size: 13px;
+}
+
+.sag-altnav {
+    background-color: #62B3AA;
+    font-size: 13px;
+    margin-top: 2px;
+    margin-left: 2px;
+    padding-bottom: 8px;
+    text-align: center;
+    width: 781px;
+}
+p {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 13px;
+}
+
